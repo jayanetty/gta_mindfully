@@ -7,3 +7,10 @@ Author URI: https://jayanetty.com
 Version: 1.0
 Tags: responsive, tailwind
 */
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  color: blue
+}
